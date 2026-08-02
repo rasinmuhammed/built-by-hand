@@ -1,8 +1,8 @@
 # Built by Hand
 
-**182 days rebuilding my fundamentals in public: writing the core logic myself, publishing the numbers, and explaining every system on camera.**
+**183 days rebuilding my fundamentals in public: writing the core logic myself, publishing the numbers, and explaining every system on camera.**
 
-Aug 3, 2026 to Jan 31, 2027 · Day **1** of 182
+Aug 2, 2026 to Jan 31, 2027 · Day **1** of 183
 
 ---
 
@@ -51,7 +51,7 @@ I would rather be measured against these than against a plan. Plans are easy to 
 
 ## Shipped
 
-*Nothing yet. Day 1. This fills in as things actually exist, not as they are planned.*
+*Nothing shipped yet. This fills in as things actually exist, not as they are planned.*
 
 <!-- | Date | What | Numbers | Code | -->
 
