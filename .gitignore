@@ -1,0 +1,21 @@
+# Everything forward-looking stays local. Nothing gets announced before it exists.
+_private/
+DRAFTS/
+*.draft.md
+
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+.idea/
+.vscode/
+node_modules/
+
+# Keep raw recordings out of git. Link to hosted versions in videos/README.md.
+*.mp4
+*.mov
+*.wav
